@@ -260,4 +260,7 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<modules>
+		<module>e3-portal-web</module>
+	</modules>
 </project>
